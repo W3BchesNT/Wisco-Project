@@ -1,0 +1,7 @@
+<style>
+  .body { background: #2d2d2d; }
+</style>
+<body>
+  <p>Привет! Этот фон теперь темно-серый благодаря CSS!</p>
+  <button>Тест</button>
+</body>
